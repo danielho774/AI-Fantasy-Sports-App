@@ -1,5 +1,5 @@
 #api keys
-.env
+.env.development
 
-# Node.js
-package-lock.json
+#Node.js
+node_modules

@@ -190,6 +190,7 @@ const dainService = defineDAINService({
       version: "1.0.0",
       author: "Your Name",
       tags: ["recipe", "ingredient", "dain", "food"],
+      logo: "uicons/shopping-cart"
     },
     identity: {
       apiKey: process.env.DAIN_API_KEY,
